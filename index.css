@@ -4,7 +4,7 @@ body {
 div {
     vertical-align: top;
     display: inline-block;
-    border: 2px rgb(235, 15, 52) solid;
+    border: 3px rgb(235, 15, 52) solid;
     background-size: 100%;
     text-align: center;
     background-color: pink;
