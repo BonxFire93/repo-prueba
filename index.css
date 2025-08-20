@@ -21,7 +21,6 @@ div {
     margin-top: 2px;
     margin-bottom: 4px;
     width: 100vw;
-    height: 230px;
 }
 img {
     border-radius: 50vw;
@@ -33,5 +32,6 @@ img {
     width: 100%;
 }
 .mas {
+    margin-bottom: 4vw;
     color: rgb(235, 15, 52);
 }
