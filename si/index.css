@@ -1,0 +1,11 @@
+div {
+    vertical-align: top;
+    display: inline-block;
+    border: 3px rgb(235, 15, 52) solid;
+    background-size: 100vw;
+    text-align: center;
+    background-color: pink;
+}
+body {
+    background-color: rgb(70, 0, 12);
+}
