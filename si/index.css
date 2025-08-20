@@ -5,6 +5,7 @@ div {
     background-size: 100vw;
     text-align: center;
     background-color: pink;
+    width: 100vw;
 }
 body {
     background-color: rgb(70, 0, 12);
