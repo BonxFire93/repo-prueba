@@ -10,21 +10,21 @@ div {
     vertical-align: top;
     display: inline-block;
     border: 3px rgb(235, 15, 52) solid;
-    background-size: 100%;
+    background-size: 100vw;
     text-align: center;
     background-color: pink;
 }
 .Yo {
-    width: 100%;
+    width: 100vw;
 }
 .Gustos {
     margin-top: 2px;
     margin-bottom: 4px;
-    width: 100%;
+    width: 100vw;
     height: 230px;
 }
 img {
-    border-radius: 50%;
+    border-radius: 50vw;
     height: 20vw;
     margin-top: 4px;
 }
